@@ -1,17 +1,17 @@
 {
   "item.adventure.gem_cleaner": "Gem Cleaner",
   "item.adventure.ancient_diamond_pickaxe": "AncientDiamond Pickaxe",
-  "item.warrior.ancient_diamond_armor_armorboots": "AncientDiamondArmor Boots",
-  "block.adventure.ancient_diamond_ore_block": "Block of AncientDiamond",
-  "item.adventure.ancient_diamond_gem": "AncientDiamond",
-  "item.adventure.ancient_diamond_axe": "AncientDiamond Axe",
-  "block.adventure.ancient_diamond_ore": "Ancient Diamond Ore",
   "item.adventure.clean_ancient_diamond_gem": "Clean Ancient Diamond Gem",
   "item.adventure.ancient_diamond_sword": "AncientDiamond Sword",
   "item.warrior.ancient_diamond_armor_armorhelmet": "AncientDiamondArmor Helmet",
   "item.warrior.ancient_diamond": "Ancient Diamond",
   "item.adventure.ancient_diamond_hoe": "AncientDiamond Hoe",
+  "item.warrior.ancient_diamond_armor_armorboots": "AncientDiamondArmor Boots",
+  "block.adventure.ancient_diamond_ore_block": "Block of AncientDiamond",
   "item.warrior.ancient_diamond_armor_armorlegs": "AncientDiamondArmor Leggings",
+  "item.adventure.ancient_diamond_gem": "AncientDiamond",
   "item.warrior.ancient_diamond_armor_armorbody": "AncientDiamondArmor Chestplate",
-  "item.adventure.ancient_diamond_shovel": "AncientDiamond Shovel"
+  "item.adventure.ancient_diamond_axe": "AncientDiamond Axe",
+  "item.adventure.ancient_diamond_shovel": "AncientDiamond Shovel",
+  "block.adventure.ancient_diamond_ore": "Ancient Diamond Ore"
 }
