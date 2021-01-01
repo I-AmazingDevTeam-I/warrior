@@ -1,6 +1,16 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "AncientDiamond",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_diamond"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
@@ -15,6 +25,7 @@
       "item.adventure.clean_ancient_diamond_gem": "Clean Ancient Diamond Gem",
       "item.adventure.ancient_diamond_sword": "AncientDiamond Sword",
       "item.warrior.ancient_diamond_armor_armorhelmet": "AncientDiamondArmor Helmet",
+      "item.warrior.ancient_diamond": "Ancient Diamond",
       "item.adventure.ancient_diamond_hoe": "AncientDiamond Hoe",
       "item.warrior.ancient_diamond_armor_armorlegs": "AncientDiamondArmor Leggings",
       "item.warrior.ancient_diamond_armor_armorbody": "AncientDiamondArmor Chestplate",
