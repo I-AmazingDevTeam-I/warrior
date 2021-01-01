@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="warrior"
+version="1.0.0"
+displayName="Warrior"
+credits="Made using glorious, and infinite imagination, work and of course MCreator."
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="Kristjan.Stefan,Lev"
+description='''
+Awesome mod, that adds lots of new ores, tools, structures, etc
+'''
+
+[[dependencies.warrior]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

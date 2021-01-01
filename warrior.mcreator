@@ -1,0 +1,44 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.adventure.gem_cleaner": "Gem Cleaner",
+      "item.adventure.ancient_diamond_pickaxe": "AncientDiamond Pickaxe",
+      "item.warrior.ancient_diamond_armor_armorboots": "AncientDiamondArmor Boots",
+      "block.adventure.ancient_diamond_ore_block": "Block of AncientDiamond",
+      "item.adventure.ancient_diamond_gem": "AncientDiamond",
+      "item.adventure.ancient_diamond_axe": "AncientDiamond Axe",
+      "block.adventure.ancient_diamond_ore": "Ancient Diamond Ore",
+      "item.adventure.clean_ancient_diamond_gem": "Clean Ancient Diamond Gem",
+      "item.adventure.ancient_diamond_sword": "AncientDiamond Sword",
+      "item.warrior.ancient_diamond_armor_armorhelmet": "AncientDiamondArmor Helmet",
+      "item.adventure.ancient_diamond_hoe": "AncientDiamond Hoe",
+      "item.warrior.ancient_diamond_armor_armorlegs": "AncientDiamondArmor Leggings",
+      "item.warrior.ancient_diamond_armor_armorbody": "AncientDiamondArmor Chestplate",
+      "item.adventure.ancient_diamond_shovel": "AncientDiamond Shovel"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "warrior",
+    "modName": "Warrior",
+    "version": "1.0.0",
+    "description": "Awesome mod, that adds lots of new ores, tools, structures, etc",
+    "author": "Kristjan.Stefan,Lev",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "mod_icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Made using glorious, and infinite imagination, work and of course MCreator.",
+    "modElementsPackage": "net.mcreator.warrior",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
